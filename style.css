@@ -25,9 +25,9 @@ main {
   background-color: #00b522;
 }
 
-.boxes div {
+.boxes .row .col {
   background-color: #fff75a;
-  height: 60px;
+  height: 70px;
 }
 
 footer {

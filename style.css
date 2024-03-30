@@ -4,37 +4,33 @@
   box-sizing: border-box;
 }
 
-header {
+.header {
   background-color: #ff00ff;
 }
 
-header div {
+.logo, .header-content {
   background-color: #fbb3ff;
-  height: 50px;
-}
-
-main {
-  background-color: white;
+  height: 70px;
 }
 
 .side-bar {
   background-color: #d8ffb6;
 }
 
-.boxes {
+.main-content {
   background-color: #00b522;
 }
 
-.boxes .row .col {
+.content {
   background-color: #fff75a;
-  height: 70px;
+  height: 130px;
 }
 
-footer {
+.footer {
   background-color: #52a1ff;
 }
 
-footer div {
+.footer-content {
   background-color: #b6e7ff;
-  height: 25px;
+  height: 40px;
 }
